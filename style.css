@@ -1,0 +1,6 @@
+    .scheduler .schedule_container {
+        border: 1px solid #ccc 
+    }
+    .time_block.selected {
+        background:red !important;
+    }
